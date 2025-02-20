@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 🚀 About Me
 I'm a **final-year Computer Engineering student** passionate about data analytics, machine learning, and software development. 
 ## 🔧 Skills & Technologies
