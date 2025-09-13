@@ -7,7 +7,7 @@ I'm a recent **Computer Engineering** graduate passionate about **SAP Technology
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)   ![ABAP Fundamentals](https://img.shields.io/badge/ABAP%20Fundamentals-009999?style=for-the-badge&logo=sap&logoColor=white) 
 
 ### **Platforms:**  
-![SAP PIPO](https://img.shields.io/badge/SAP%20PIPO-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)  ![SAP NetWeaver](https://img.shields.io/badge/SAP%20NetWeaver-0072BB?style=for-the-badge&logo=sap&logoColor=white)  ![SAP CPI](https://img.shields.io/badge/SAP%20CPI-005B9F?style=for-the-badge&logo=sap&logoColor=white)
+![SAP PIPO](https://img.shields.io/badge/SAP%20PIPO-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)  ![SAP NetWeaver](https://img.shields.io/badge/SAP%20NetWeaver-FFA500?style=for-the-badge&logo=sap&logoColor=black&labelColor=FFA500&color=FFA500)  ![SAP CPI](https://img.shields.io/badge/SAP%20CPI-005B9F?style=for-the-badge&logo=sap&logoColor=white)
 
 ### **Web Technologies:**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
