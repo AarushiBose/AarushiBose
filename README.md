@@ -1,5 +1,5 @@
 ## 🚀 About Me
-I'm a recent **Computer Engineering** graduate passionate about **data analytics, machine learning, and software development**.
+I'm a recent **Computer Engineering** graduate passionate about **SAP Technology, Data Analytics, Machine Learning, and Software Engineering**.
 
 ## 🔧 Skills & Technologies
 
